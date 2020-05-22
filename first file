@@ -1,1 +1,1 @@
-<rmarkdown>
+insatll.packages("psych")
